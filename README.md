@@ -1,11 +1,11 @@
 <div align="center">
 
-# Ugur
+# Ugur Haliloglu
 ### Systems Administrator & Security Operations Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rankings-DE3333?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Website](https://img.shields.io/badge/Website-ugurhaliloglu.co.uk-238636?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ugurhaliloglu.co.uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hali105409)
 
 <p align="center">
   <code>Systems Administration</code> • <code>Network Security</code> • <code>Automation & Scripting</code> • <code>Packet Analysis</code>
@@ -15,9 +15,11 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 Professional Summary
 
-IT professional specializing in enterprise systems operations, infrastructure diagnostics, and network security. Experienced in configuring and troubleshooting Linux/Windows hybrid environments, network segmentation, and automating routine operational tasks via Python, PowerShell, and Bash. Currently exploring low-level network protocol dissection and systems programming in C.
+IT professional specializing in enterprise infrastructure operations, system diagnostics, and network security. Experienced in managing hybrid Linux/Windows environments, network segmentation, and automating operational workflows using Python, PowerShell, and Bash. Currently focused on low-level network protocol dissection and systems programming in C.
+
+Explore my projects, write-ups, and background at **[ugurhaliloglu.co.uk](https://ugurhaliloglu.co.uk/)**.
 
 ---
 
@@ -25,11 +27,11 @@ IT professional specializing in enterprise systems operations, infrastructure di
 
 | Domain | Technologies & Tooling |
 | :--- | :--- |
-| **Operating Systems** | Windows Server (2019/2022), Ubuntu/Debian, Red Hat/RHEL, WSL 2 |
+| **Operating Systems** | Windows Server (2019/2022), Ubuntu/Debian, WSL 2 |
 | **Networking & Protocols** | TCP/IP Stack, DNS/DHCP, VLANs, Wireshark, Nmap, OpenVPN, SSH |
 | **Automation & Languages**| Python, C, PowerShell, Bash, Dart, Git |
-| **Security & Identity** | Active Directory / Entra ID, GPO, Role-Based Access Control (RBAC), Firewall Rule Auditing |
-| **Virtualization & Infra** | VMware ESXi, Proxmox, Hyper-V, Docker |
+| **Security & Identity** | Active Directory / Entra ID, GPO, Role-Based Access Control (RBAC), Firewall Auditing |
+| **Virtualization & Infra** | VMware ESXi, Proxmox VE, Hyper-V, Docker |
 
 ---
 
